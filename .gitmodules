@@ -1,0 +1,15 @@
+[submodule "ExamFE"]
+	path = ExamFE
+	url = https://github.com/HetRojivadiya/ExamFE
+[submodule "ExamNodeJS"]
+	path = ExamNodeJS
+	url = https://github.com/HetRojivadiya/ExamNodeJs
+[submodule "ExamPY"]
+	path = ExamPY
+	url = https://github.com/HetRojivadiya/ExamPy
+[submodule "ExamNodeJs"]
+	path = ExamNodeJs
+	url = https://github.com/HetRojivadiya/ExamNodeJs
+[submodule "ExamPy"]
+	path = ExamPy
+	url = https://github.com/HetRojivadiya/ExamPy
