@@ -42,30 +42,30 @@
 
 
 ### Image 1
-![Image 1](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/1.png)
+![Image 1](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/1.png)
 
 ### Image 2
-![Image 2](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/2.png)
+![Image 2](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/2.png)
 
 ### Image 3
-![Image 3](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/3.png)
+![Image 3](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/3.png)
 
 ### Image 4
-![Image 4](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/4.png)
+![Image 4](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/4.png)
 
 ### Image 5
-![Image 5](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/5.png)
+![Image 5](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/5.png)
 
 ### Image 6
-![Image 6](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/6.png)
+![Image 6](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/6.png)
 
 ### Image 7
-![Image 7](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/7.png)
+![Image 7](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/7.png)
 
 ### Image 8
-![Image 8](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/8.png)
+![Image 8](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/8.png)
 
 ### Image 9
-![Image 9](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/tree/master/AdaptiveMCQExamPlatform/9.png)
+![Image 9](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform/blob/master/AdaptiveMCQExamPlatform/9.png)
 
 
